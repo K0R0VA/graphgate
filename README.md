@@ -1,4 +1,4 @@
-# Apollo-gateway-rs is [Apollo Federation](https://www.apollographql.com/apollo-federation) implemented in Rust.
+# Apollo-gateway-rs is [Apollo Federation](https://www.apollographql.com/federation) implemented in Rust.
 
 <div align="center">
   <!-- Crates version -->
